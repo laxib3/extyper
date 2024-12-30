@@ -1,6 +1,6 @@
 # Experimental Alphabet Typer                      
 
-Copyright © 2017 - 2024 [Lance G.](https://github.com/xzdxrz) & [Junhui "Joseph" Han](https://github.com/rdniteglow)                                
+Copyright © 2017 - 2024 [Lance G.](https://github.com/xzdxrz) & [Junhui "Joseph" Han](https://github.com/laxib3)                                
 
 ---                 
 
