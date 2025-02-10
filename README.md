@@ -1,6 +1,6 @@
 # 宝实字母转换器（ExTyper）                      
 
-Copyright © 2017 - 2024 [XZDXRZ](https://github.com/xzdxrz) & [Junhui](https://github.com/laxib3)                                
+Copyright © 2017 - 2024 [XZDXRZ](https://github.com/xzdxrz) & [随便的冰箱in（韩俊辉）](https://github.com/laxib3)                                
 
 ---                 
 
