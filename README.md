@@ -8,4 +8,4 @@ Copyright © 2017 - 2024 [XZDXRZ](https://github.com/xzdxrz) & [随便的冰箱i
 
 自这套字母诞生起，我们不断地简化其一开始复杂的书写系统。但由于学业和时间的关系，很多版本的字形都遗失了。在我们初中毕业后，都渐渐将这件事遗忘在了某个角落。经过三年的学习生活和社会实践，我们逐渐发现，我们所喜欢的书籍、音乐、电影，和我们自己本身所创作的一切作品都有可能在将来某一天成为我们未来回顾青春的历史轨迹。所以我毫不意外地，在2024年8月31日，根据为数不多的记忆，与 XZDXRZ 重新整理了一份全新的字母标准，并对其命名为"宝实字母"(Bao-Experimental Letters). 其包含了我们对记忆中存在的字母样式的继承和修改，也包含我们对已被遗忘的字母样式的再创作。                     
 
-感谢 [Matthew Russell (Clarvel)](https://github.com/clarvel) 在社区发布的 [TennoTyper](https://github.com/clarvel/TennoType). 宝实字母转换器是在此基础上出现的。我也是一名热情的 Warframe 玩家。                
+感谢 [Matthew Russell (Clarvel)](https://github.com/clarvel) 在社区发布的 [TennoTyper](https://github.com/clarvel/TennoTyper). 宝实字母转换器是在此基础上出现的。我也是一名热情的 Warframe 玩家。                
